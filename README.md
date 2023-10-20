@@ -1,5 +1,5 @@
 # Phase 1 Project
-![churn]("C:/Users/Eunice Nduati/Desktop/telco_customer_churn-blade1_1.webp")
+![churn]("https://github.com/Eunice9521/Phase-3-Project/blob/main/Telcom%20Customer%20Churn%20Prediction.pdf")
 
 
 ## Project Overview
