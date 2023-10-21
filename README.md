@@ -1,5 +1,5 @@
 # Phase 1 Project
-![churn]("https://github.com/Eunice9521/Phase-3-Project/blob/main/Telcom%20Customer%20Churn%20Prediction.pdf")
+![churn](https://user-images.githubusercontent.com/133338843/277095182-7db90b06-3176-433a-973f-f36263715cf6.jpg)
 
 
 ## Project Overview
@@ -17,14 +17,14 @@ Some features were analyzed to help understand how they affect customer churn. T
 1. Voice mail plan.
 2. International plan
 
-From the above features, we laernt that:
-1. Customers without a voice mail plan are more likely to churn as compared to those who have have subscribed to voice mail plan.
+From the above features, we learned that:
+1. Customers without a voicemail plan are more likely to churn as compared to those who have have subscribed to voice mail plan.
 
 2. Most of the customers do not have an international plan. From the analysis, majority of the clients who have an international plan churn. This could be attributed to the clients not being citizens and are temporarily in the country.
 
 A correlation heatmat was used to help understand how all the features correlated with churn.
 
-![correlation heatmap]("C:/Users/Eunice Nduati/Desktop/download (2).png")
+![heatmap](https://user-images.githubusercontent.com/133338843/277095197-329dabf2-cd7b-49c2-b64b-55fb207f07d5.png)
 
 
 ## Data Preparation
@@ -52,7 +52,7 @@ Three models were used to train and predict data. These are:
 
 The three models were evaluated for the accuracy and precision in predicting the test data. Random Forest model was found to successfully predict with an accuracy rate of about 92.04%. A confusion matrix was plotted to show the prediction.
 
-![Confusion matrix]("C:/Users/Eunice Nduati/Desktop/download (3).png")
+![confusion matrix](https://user-images.githubusercontent.com/133338843/277095211-aef2298a-69ae-46f0-b137-6ba49b5d98b9.png)
 
 ## Conclusion
 
